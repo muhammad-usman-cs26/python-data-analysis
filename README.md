@@ -169,9 +169,7 @@ Adding more student performance features
 Deploying the model as a web application
 
 👨‍💻 Author
-
 Muhammad Usman
-
 This project was created as a Machine Learning portfolio project to demonstrate data analysis, regression modeling, prediction, and model evaluation using Python.
 
 ⭐ Project Conclusion
